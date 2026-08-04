@@ -1,0 +1,28 @@
+# # ============================================================================
+# # VEILLE TECH PRO - Dépendances Python
+# # Version : 2.0
+# # ============================================================================
+# #
+# # Installation : pip install -r requirements.txt
+# #
+# # ============================================================================
+
+# # --- Cœur de l'application ---
+# groq>=0.11.0,<1.0.0              # API Groq pour les résumés IA
+# feedparser>=6.0.10,<7.0.0        # Lecture des flux RSS/Atom
+# beautifulsoup4>=4.12.0,<5.0.0    # Extraction du contenu HTML
+# requests>=2.31.0,<3.0.0          # Requêtes HTTP
+
+# # --- Configuration et sécurité ---
+# python-dotenv>=1.0.0,<2.0.0      # Variables d'environnement (.env)
+
+# # --- Performance ---
+# lxml>=4.9.0,<5.0.0               # Parser HTML/XML accéléré
+
+# # --- Build (développement) ---
+# pyinstaller>=6.0.0,<7.0.0        # Transformation en .exe
+
+# # --- Optionnel ---
+# pillow>=10.0.0,<11.0.0           # Manipulation d'images
+
+pip install groq feedparser beautifulsoup4 requests python-dotenv

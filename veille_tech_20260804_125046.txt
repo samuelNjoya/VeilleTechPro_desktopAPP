@@ -1,0 +1,189 @@
+================================================================================
+VEILLE TECH PRO - Veille Tech Pro - Assistant de veille technologique
+Généré le 04/08/2026 à 12:50
+================================================================================
+
+[1] Announcement: We've Updated The Rules, and April Is Finally Over
+Source : programming
+Date   : 2026-05-23
+
+📝 RÉSUMÉ :
+error_no_content
+--------------------------------------------------------------------------------
+
+[2] Why I’m Writing Pure HTML & CSS in 2025
+Source : programming
+Date   : 2026-08-04
+
+📝 RÉSUMÉ :
+error_no_content
+--------------------------------------------------------------------------------
+
+[3] Cloudflare introduced tool that synchronize its servers
+Source : programming
+Date   : 2026-08-03
+
+📝 RÉSUMÉ :
+error_no_content
+--------------------------------------------------------------------------------
+
+[4] Safe Lock-free Primitives with iceoryx2's ByteAtomic
+Source : programming
+Date   : 2026-08-04
+
+📝 RÉSUMÉ :
+error_no_content
+--------------------------------------------------------------------------------
+
+[5] Reliability Lessons From SQLite - Richard Hipp | SSW 2026
+Source : programming
+Date   : 2026-08-03
+
+📝 RÉSUMÉ :
+error_no_content
+--------------------------------------------------------------------------------
+
+[6] OpenAI drags Apple’s lawsuit into the court of public opinion
+Source : The Verge
+Date   : 2026-08-04
+
+📝 RÉSUMÉ :
+OpenAI, le créateur de ChatGPT, a récemment publié des échanges de messages en ligne pour contrecarrer les allégations d'Apple dans le cadre d'un procès concernant la propriété de secrets commerciaux. Dans un billet de blog intitulé "Apple se trom...
+--------------------------------------------------------------------------------
+
+[7] The next Xbox could play every Xbox game ever made
+Source : The Verge
+Date   : 2026-08-04
+
+📝 RÉSUMÉ :
+**Le prochain Xbox pourrait jouer tous les jeux Xbox jamais créés**
+
+Un mémo leaké révèle que Microsoft demande gentiment aux éditeurs de lui donner la permission. Le prochain Xbox, appelé Project Helix, pourrait avoir la plus grande bibliothèque ...
+--------------------------------------------------------------------------------
+
+[8] Can Reddit fend off a new wave of AI SEO spam?
+Source : The Verge
+Date   : 2026-08-04
+
+📝 RÉSUMÉ :
+**Lutte contre la spammerie AI sur Reddit**
+
+La plateforme de discussion en ligne Reddit a connu une croissance exponentielle ces dernières années, devenant un site web essentiel pour billions de personnes. Les mentions de Reddit sont désormais tr...
+--------------------------------------------------------------------------------
+
+[9] The studio behind Pokémon struggles to find its voice in Beast of Reincarnation
+Source : The Verge
+Date   : 2026-08-03
+
+📝 RÉSUMÉ :
+**Le studio derrière Pokémon peine à trouver sa voix dans Beast of Reincarnation**
+
+Le studio Game Freak, connu pour la création de la série Pokémon, a récemment lancé un nouveau jeu d'action intitulé Beast of Reincarnation. Ce jeu est l'occasion ...
+--------------------------------------------------------------------------------
+
+[10] Your Fitbit data can now connect directly to Apple Health
+Source : The Verge
+Date   : 2026-08-03
+
+📝 RÉSUMÉ :
+**Google Health permet désormais de connecter directement les données Fitbit à Apple Health**
+
+Depuis quelques jours, Google a mis à jour son application Google Health, permettant aux utilisateurs de connecter directement leurs données Fitbit à Ap...
+--------------------------------------------------------------------------------
+
+[11] US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own
+Source : Ars Technica
+Date   : Mon, 03 Au
+
+📝 RÉSUMÉ :
+La compagnie américaine Auterion a développé un système d'intelligence artificielle (IA) pour les drones kamikazes ukrainiens Shrike, qui coûtent 400 dollars chacun. Ces drones ont déjà détruit de nombreux véhicules blindés russes et même des héli...
+--------------------------------------------------------------------------------
+
+[12] Research roundup: 6 cool science stories we almost missed
+Source : Ars Technica
+Date   : Mon, 03 Au
+
+📝 RÉSUMÉ :
+**Recherche scientifique : 6 histoires fascinantes que nous avons presque manquées**
+
+Chaque mois, nous mettons en avant des histoires scientifiques intéressantes qui ont presque échappé à notre attention. Voici quelques-unes des meilleures histoi...
+--------------------------------------------------------------------------------
+
+[13] Lego deploys Hubble Space Telescope as detailed desktop model
+Source : Ars Technica
+Date   : Mon, 03 Au
+
+📝 RÉSUMÉ :
+**Lego présente un modèle détaillé du télescope spatial Hubble**
+
+Depuis 35 ans, le télescope spatial Hubble a exploré l'univers. Maintenant, Lego invite les constructeurs à plonger dans les détails de l'observatoire avec son dernier modèle du tél...
+--------------------------------------------------------------------------------
+
+[14] An AI-supervised remote exam went so badly that 58,000 students must retake it
+Source : Ars Technica
+Date   : Mon, 03 Au
+
+📝 RÉSUMÉ :
+**Un scandale d'examen à distance au Mexique : 58 000 étudiants doivent reprendre l'examen**
+
+En juin dernier, environ 160 000 candidats ont passé l'examen d'entrée de l'UNAM, l'université la plus importante du Mexique. Pour la première fois, ils ...
+--------------------------------------------------------------------------------
+
+[15] 2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet
+Source : Ars Technica
+Date   : Mon, 03 Au
+
+📝 RÉSUMÉ :
+**2026 Volkswagen Jetta Sport : Une voiture sportive à petit prix qui n'est pas complètement morte**
+
+La première impression est importante, et dans ce cas, celle du 2026 Volkswagen Jetta Sport n'a pas été très positive. Après un long vol et un ar...
+--------------------------------------------------------------------------------
+
+[16] Put health systems at the centre of European heatwave plans
+Source : Nature
+Date   : 
+
+📝 RÉSUMÉ :
+**L'importance des systèmes de santé dans les plans de prévention des ondes de chaleur en Europe**
+
+Les ondes de chaleur deviennent de plus en plus une menace silencieuse en Europe. Les ondes de chaleur de cette année ont montré que, même si elles...
+--------------------------------------------------------------------------------
+
+[17] Scientists don’t need more trust, they need public allies
+Source : Nature
+Date   : 
+
+📝 RÉSUMÉ :
+**Les scientifiques ne nécessitent pas plus de confiance, mais des alliés du public**
+
+Un récent article publié dans la revue Nature soulève la question de la confiance accordée aux scientifiques. Selon les auteurs, les scientifiques sont largemen...
+--------------------------------------------------------------------------------
+
+[18] Lab leaders should follow football’s lead and have coaching qualifications
+Source : Nature
+Date   : 
+
+📝 RÉSUMÉ :
+**Les dirigeants de laboratoire devraient suivre l'exemple du football et acquérir des qualifications de coach**
+
+Dans un article récent publié dans la revue Nature, Sarah Blackford, consultante, met en lumière l'ironie selon laquelle la promotion...
+--------------------------------------------------------------------------------
+
+[19] How scientists can tackle the paradox of political polarization
+Source : Nature
+Date   : 
+
+📝 RÉSUMÉ :
+**Comment les scientifiques peuvent relever le paradoxe de la polarisation politique**
+
+Dans un article récent publié dans la revue Nature, les scientifiques sont invités à s'attaquer au paradoxe de la polarisation politique. Cette polarisation, q...
+--------------------------------------------------------------------------------
+
+[20] Why the need for the WHO has never been greater
+Source : Nature
+Date   : 
+
+📝 RÉSUMÉ :
+L'Organisation mondiale de la santé (OMS) a célébré son 80e anniversaire en juillet dernier, marquant une étape importante dans l'histoire de la santé mondiale. Fondée en 1946, l'OMS a pour mission de promouvoir la santé et la bien-être de tous le...
+--------------------------------------------------------------------------------
+
