@@ -58,4 +58,4 @@ source venv/bin/activate
 
 pip install groq feedparser beautifulsoup4 requests python-dotenv
 
-custumTkenter: pour les app modernes pip install customtkinter
+custumTkenter: pour les app modernes pip install customtkinter r
